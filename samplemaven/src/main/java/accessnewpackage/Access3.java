@@ -11,5 +11,4 @@ public class Access3 extends Access {
 		ob1.display3();
 
 	}
-
 }
